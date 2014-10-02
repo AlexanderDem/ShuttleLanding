@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1412176541 source:d:\shuttlelanding\shuttlelanding\src\spaceobject.cpp
+
+1412181983 source:d:\shuttlelanding\shuttlelanding\main.cpp
+	<iostream>
+	"stdio.h"
+	<cmath>
+	"SpaceObject.h"
+
+1412176044 d:\shuttlelanding\shuttlelanding\include\spaceobject.h
+
